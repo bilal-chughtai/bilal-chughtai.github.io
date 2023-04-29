@@ -1,9 +1,13 @@
 links:
-- title: Writing
-  url: /
 - title: About
-  url: /about
-- title: Search
-  url: /search
-- title: Rss
-  url: /atom.xml
+  url: /
+- title: Scholar
+  url: https://scholar.google.com/citations?user=i-L98bwAAAAJ&hl=en
+- title: LinkedIn
+  url: https://www.linkedin.com/in/bilalchughtai/
+- title: GitHub
+  url: https://github.com/bilal-chughtai
+- title: Twitter
+  url: https://twitter.com/bilalchughtai_
+- title: Email
+  url: mailto:brchughtaii@gmail.com 
