@@ -9,7 +9,7 @@ Previously, I was a scholar in the [SERI MATS](https://www.serimats.org/alumni) 
 
 ## Publications
 
-A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations; ***Bilal Chughtai**, Lawrence Chan, Neel Nanda*. Accepted to ICML 2023. Prior version accepted to the ICLR 2023 Physics4ML workshop. [arXiv](https://arxiv.org/abs/2302.03025). [Poster](/assets/rep_theory_paper/Poster.pdf). [Slides](/assets/rep_theory_paper/ICLR%20Physics4ML%20Presentation%20v2.pdf). [Code](https://github.com/bilal-chughtai/mechanistic-interpretability). 
+A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations; ***Bilal Chughtai**, Lawrence Chan, Neel Nanda*. Accepted to ICML 2023. Prior version accepted as a spotlight presentation at the ICLR 2023 Physics4ML workshop. [arXiv](https://arxiv.org/abs/2302.03025). [Poster](/assets/rep_theory_paper/Poster.pdf). [Slides](/assets/rep_theory_paper/ICLR%20Physics4ML%20Presentation%20v2.pdf). [Demo](https://colab.research.google.com/github/bilal-chughtai/rep-theory-mech-interp/blob/master/rep_theory/paper/demo.ipynb). [Code](https://github.com/bilal-chughtai/mechanistic-interpretability).
 
 A more up to date list of publications may be found on my [Google Scholar](https://scholar.google.com/citations?user=i-L98bwAAAAJ&hl=en).
 
