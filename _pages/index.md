@@ -3,13 +3,13 @@ layout: page
 title: Bilal Chughtai
 ---
 
-I do ML and AI Safety research. My research interests are in better *understanding* how powerful general AI systems function with the hope that this contributes to their safe and benefecial development. I am interested in (mechanistic) interpretability, AI safety and AI alignment.
+I am currently a visiting researcher at [Northeastern University](https://www.khoury.northeastern.edu/), working with Professor [David Bau](https://baulab.info/). I do ML and AI Safety research. My research interests are in better *understanding* how powerful general AI systems function, and *leveraging* such understanding to create safer systems. I am interested in (mechanistic) interpretability, capability evaluations, AI alignment and AI safety.
 
-Previously, I was a scholar in the [MATS](https://www.matsprogram.org/alumni) program, working on mechanistic interpretability with Neel Nanda. Before that, I was an [MLSS](https://www.alignmentforum.org/posts/CphfDP4ynz3QQ4AKY/introducing-the-ml-safety-scholars-program) scholar. I have an MMath in mathematics from the University of Cambridge, where I was primarily interested in theoretical physics.
+Previously, I was a scholar in the [MATS](https://www.matsprogram.org/alumni) program, working on mechanistic interpretability with [Neel Nanda](https://www.neelnanda.io/about). Before that, I was an [MLSS](https://www.alignmentforum.org/posts/CphfDP4ynz3QQ4AKY/introducing-the-ml-safety-scholars-program) scholar. I have an MMath in mathematics from the University of Cambridge, where I was primarily interested in theoretical physics.
 
 ## Publications
 
-Summing Up the Facts: Additive Mechanisms Behind Factual Recall in LLMs; **Bilal Chughtai**, Alan Cooney, Neel Nanda. NeurIPS 2023 Attributing Model Behaviour at Scale workshop. [Preprint](/assets/summing_up_facts/summing_up_facts_2.pdf)
+Summing Up the Facts: Additive Mechanisms Behind Factual Recall in LLMs; **Bilal Chughtai**, Alan Cooney, Neel Nanda. NeurIPS 2023 Attributing Model Behaviour at Scale workshop. [arXiv](https://arxiv.org/abs/2402.07321)
 
 Language Models Struggle To Explain Themselves; Dane Sherburn, **Bilal Chughtai**, Owain Evans. Under Review.
 
